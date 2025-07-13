@@ -1,4 +1,4 @@
-EKS Auto Stop Start
+## EKS Auto Stop Start
 
 This script is a very simple, and lightweight Auto Stop/Start Script
 
